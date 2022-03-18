@@ -1,0 +1,36 @@
+body
+{
+    background-color: whitesmoke;
+}
+table
+{
+    width: 600;
+    margin: 0 auto;
+    background-color: white;
+    border-collapse: collapse;
+    border: 1.5px solid black;
+}
+td
+{
+    border-collapse: collapse;
+    border: 1.5px solid black;
+    text-align: center;
+}
+th
+{
+    background-color: rgb(26, 177, 89);
+    border: 1.5px solid black;
+}
+.head
+{
+    background-color: white;
+}
+.day
+{
+    font-size: smaller;
+    vertical-align: middle;
+}
+.exception
+{
+    background-color: lightgray;
+}
